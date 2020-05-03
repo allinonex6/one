@@ -2,7 +2,10 @@
 {
 "version":"3.1",
 "error":"01",
-"package":"com.myhilapon.bencoloringherosultimate"
+"package":"com.myhilapon.bencoloringherosultimate",
+ "ads":"true",
+  "banner":"ca-app-pub-3940256099942544/6300978111",
+  "inter":"	ca-app-pub-3940256099942544/1033173712"
 }
 ],
 "Controle": [
