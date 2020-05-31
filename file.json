@@ -1,6 +1,6 @@
 {
-	"Version": [{
+	"update": [{
 		"version": "3.3",
-		"error": "update"
+		"doTheUpdate": "Yes"
 	}]
 }
