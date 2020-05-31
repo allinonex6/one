@@ -2,5 +2,6 @@
 	"update": [{
 		"version": "3.3",
 		"doTheUpdate": "No"
+		"interface": "MyPopUp()"
 	}]
 }
